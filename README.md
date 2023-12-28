@@ -1,2 +1,2 @@
-# Kado-ulang-tahun
-Kita akan membuat kado ulang tahun dengan target 
+# Kado
+menganalsiis kado yang membuat orang akan membutuhkannnya
