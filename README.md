@@ -1,5 +1,17 @@
 planning :
 pembuatan isssue
+perencanaan menggunakan alat pengelolaan project seperti github,jira,trello
+terdapat bukti pelaksanaan aktivitas sprint planning
+terdapat bukti pelaksanaan aktivitas daliy scrum
+terdapat bukti pelaksanaan aktivitas sprint review
+tedapat bukti pelaksanaan sprint retrospektif
+terdapat bukti keterlibatan aktif dalam tim pengembangan
+
+Management pengembangan:
+Terdapat milestone(berisi backlog)yang disusun rapi
+terdapat dokumentasi perubahan" backlog sebagai bukti iterasi produk
+terdapat penanggung jawab pada setiap backlog
+terdapat bukti keterlibatan aktif dalam tim pengembangan
 
 analisist requarment:
 perencanaan untuk melakukan requirement analisis berupa daftar pertnyaan wawancara
