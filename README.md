@@ -16,7 +16,7 @@ terdapat bukti keterlibatan aktif dalam tim pengembangan ()
 analisist requarment:
 perencanaan untuk melakukan requirement analisis berupa daftar pertnyaan wawancara (V)
 Terdapat dokumentasi rekman wawancara (V)
-terdapat transkip wawanncara ()
+terdapat transkip wawanncara (v)
 terdapat daftar requirement sebagai hasil analisis ()
 terdapat dokumentasi perubahan" requirement ()
 terdapat bukti keterlibatan aktif dalam tim pengembangan (V)
