@@ -14,19 +14,19 @@ terdapat penanggung jawab pada setiap backlog ()
 terdapat bukti keterlibatan aktif dalam tim pengembangan ()
 
 analisist requarment:
-perencanaan untuk melakukan requirement analisis berupa daftar pertnyaan wawancara ()
-Terdapat dokumentasi rekman wawancara ()
+perencanaan untuk melakukan requirement analisis berupa daftar pertnyaan wawancara (V)
+Terdapat dokumentasi rekman wawancara (V)
 terdapat transkip wawanncara ()
 terdapat daftar requirement sebagai hasil analisis ()
 terdapat dokumentasi perubahan" requirement ()
-terdapat bukti keterlibatan aktif dalam tim pengembangan ()
+terdapat bukti keterlibatan aktif dalam tim pengembangan (V)
 
 Design :
 Terdapat dokumentasi aktivitas 'brainstroming' untuk menentukan desain produk ()
-terdapat low fidelity(sketsa) ()
-Terdapat high fidelity(bentuk desain asli yang mirip aslinya) ()
+terdapat low fidelity(sketsa) (V)
+Terdapat high fidelity(bentuk desain asli yang mirip aslinya) (V)
 Terdapat dokumentasi 'evolusi desain' yang menunjukan perubahan" desain yang dilakukan secara iterative incremental ()
-terdapat bukti keterlibatan aktif dalam tim pengembangan ()
+terdapat bukti keterlibatan aktif dalam tim pengembangan (V)
 
 Development :
 Terdapat perhitungane estimasi biaya produksi ()
