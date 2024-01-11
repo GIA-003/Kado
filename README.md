@@ -1,7 +1,7 @@
 planning :
 pembuatan isssue (V)
 perencanaan menggunakan alat pengelolaan project seperti github,jira,trello (V)
-terdapat bukti pelaksanaan aktivitas sprint planning ()
+terdapat bukti pelaksanaan aktivitas sprint planning (V) = Foto Bareng seluruh anggota
 terdapat bukti pelaksanaan aktivitas daliy scrum ()
 terdapat bukti pelaksanaan aktivitas sprint review ()
 tedapat bukti pelaksanaan sprint retrospektif ()
